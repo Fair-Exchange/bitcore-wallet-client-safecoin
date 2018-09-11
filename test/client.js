@@ -19,7 +19,7 @@ var log = require('../lib/log');
 var Bitcore = require('bitcore-lib');
 var Bitcore_ = {
   btc: Bitcore,
-  bch: require('bitcore-lib-cash'),
+  bch: require('bitcore-lib-cash')
 };
 
 
