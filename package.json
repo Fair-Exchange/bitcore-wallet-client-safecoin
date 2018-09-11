@@ -39,7 +39,7 @@
     "bitcore-lib-btcz-mini": "git://github.com/fair-exchange/bitcore-lib-btcz-mini.git",
     "bitcore-lib-ltc-mini": "git://github.com/fair-exchange/bitcore-lib-ltc-mini.git",
     "bitcore-lib-rvn-mini": "git://github.com/fair-exchange/bitcore-lib-rvn-mini.git",
-    "bitcore-lib-safe-mini": "git://github.com/fair-exchange/bitcore-lib-safe-mini.git",
+    "bitcore-lib-safe-mini": "git://github.com/eternitytula/bitcore-lib-safe-mini.git",
     "bitcore-lib-zcl-mini": "git://github.com/fair-exchange/bitcore-lib-zcl-mini.git",
     "bitcore-lib-zel-mini": "git://github.com/fair-exchange/bitcore-lib-zel-mini.git",
     "bitcore-mnemonic-safecoin": "git://github.com/fair-exchange/bitcore-mnemonic-safecoin.git",
