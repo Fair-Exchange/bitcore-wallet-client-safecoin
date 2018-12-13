@@ -46,6 +46,7 @@
     "bitcore-lib-zcl-mini": "git+https://github.com/fair-exchange/bitcore-lib-zcl-mini.git",
     "bitcore-lib-zel-mini": "git+https://github.com/fair-exchange/bitcore-lib-zel-mini.git",
     "bitcore-lib-zen-mini": "git+https://github.com/eternitytula/bitcore-lib-zen-mini.git",
+    "bitcore-lib-rito-mini": "git+https://github.com/eternitytula/bitcore-lib-rito-mini.git",
     "bitcore-mnemonic-safecoin": "git+https://github.com/fair-exchange/bitcore-mnemonic-safecoin.git",
     "bitcore-payment-protocol": "^1.7.0",
     "json-stable-stringify": "^1.0.0",
