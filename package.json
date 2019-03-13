@@ -49,6 +49,7 @@
     "bitcore-lib-rito-mini": "git+https://github.com/eternitytula/bitcore-lib-rito-mini.git",
     "bitcore-mnemonic-safecoin": "git+https://github.com/fair-exchange/bitcore-mnemonic-safecoin.git",
     "bitcore-payment-protocol": "^1.7.0",
+    "bitgo-utxo-lib": "git+https://github.com/TheTrunk/bitgo-utxo-lib.git",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.17.4",
     "preconditions": "^1.0.8",
